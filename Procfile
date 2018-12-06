@@ -1,1 +1,1 @@
-worker: nice.py
+worker: botforme.py
